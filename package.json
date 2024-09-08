@@ -1,7 +1,7 @@
 {
   "name": "second-react-project",
   "private": true,
-  "homepage": "https://github.com/Formandev/cooking-recipes.git",
+  "homepage": "https://formandev.github.io/cooking-recipes",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
