@@ -343,6 +343,18 @@ ul {
   align-items: center;
 }
 
+.flex img {
+  height: 100vh;
+}
+
+@media (max-width: 1000px) {
+  .flex {
+    flex-direction: column-reverse;
+  }
+  .flex img {
+    height: 50vh;
+  }
+}
 .flex-2 {
   font-size: 2rem;
   font-style: italic;
