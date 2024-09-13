@@ -5,7 +5,7 @@ import Favorites from "./components/Favorites";
 import Meals from "./components/Meals";
 import Modal from "./components/Modal";
 import Search from "./components/Search";
-import Img from "./assets/zelinski.jpeg";
+import Img from "./../assets/assets/zelinski-D0T-gleN.jpeg";
 
 export default function App() {
   const { showModal, favorites } = useGlobalContext();
